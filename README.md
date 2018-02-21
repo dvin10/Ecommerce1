@@ -1,2 +1,1 @@
-# Ecommerce1
-nopcommerce repo
+# amplify_mindware
